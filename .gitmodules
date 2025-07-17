@@ -1,0 +1,3 @@
+[submodule "subTryGit"]
+	path = subTryGit
+	url = https://github.com/yair-yamin/subTryGit.git
